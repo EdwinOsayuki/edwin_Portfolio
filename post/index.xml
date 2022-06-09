@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Edwin Osayuki</title>
+    <link>https://edwinosayuki.github.io/edwin_Portfolio/post/</link>
+    <description>Recent content in Projects on Edwin Osayuki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://edwinosayuki.github.io/edwin_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning--Insurance Prediction</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/insurance/</link>
+      <pubDate>Mon, 23 May 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/insurance/</guid>
+      <description>Read More on GitHub&amp;hellip;
+Our client is an Insurance company that has provided Health Insurance to its customers now they need your help in building a model to predict whether the policyholders (customers) from the past year will also be interested in Vehicle Insurance provided by the company.
+An insurance policy is an arrangement by which a company undertakes to provide a guarantee of compensation for specified loss, damage, illness, or death in return for the payment of a specified premium.</description>
+    </item>
+    
+    <item>
+      <title>USA Movie View Analysis</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/usa-movies-analysis/</link>
+      <pubDate>Mon, 09 May 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/usa-movies-analysis/</guid>
+      <description>Read More on GitHub&amp;hellip;
+USA Movie View Analysis
+This repo goes along with my video &amp;ldquo;Solving real world data science tasks with Python BeautifulSoup!
+In this video we scrape Wikipedia pages to create a dataset on Disney movies.
+The video is formatted with tasks for you to try to solve on your own throughout. For the best learning experience, at each task you should pause the video, try the task on your own, and then resume when you want to see how I would solve it.</description>
+    </item>
+    
+    <item>
+      <title>Automobile Customer Analysis</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/europe-automobile-sales/</link>
+      <pubDate>Thu, 05 May 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/europe-automobile-sales/</guid>
+      <description>Read More on GitHub&amp;hellip;
+Description:
+An automobile company has plans to enter new markets with their existing products (P1, P2, P3, P4 and P5). After intensive market research, they’ve deduced that the behavior of new market is similar to their existing market.
+In their existing market, the sales team has classified all customers into 4 segments (A, B, C, D ). Then, they performed segmented outreach and communication for different segment of customers.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning: Fake News Prediction</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/machine-learning-on-fake-news-prediction/</link>
+      <pubDate>Wed, 04 May 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/machine-learning-on-fake-news-prediction/</guid>
+      <description>Read more on GitHub&amp;hellip;
+In an era where fake WhatsApp forwards and Tweets are capable of influencing naive minds, tools and knowledge have to be put to practical use in not only mitigating the spread of misinformation but also to inform people about the type of news they consume.
+Development of practical applications for users to gain insight from the articles they consume, fact-checking websites, built-in plugins and article parsers can further be refined, made easier to access, and more importantly, should create more awareness.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning: Diabetes Analysis Prediction</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/machine-learning_diabetis/</link>
+      <pubDate>Tue, 03 May 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/machine-learning_diabetis/</guid>
+      <description>Read more on GitHub&amp;hellip;
+What is Diabetes?
+Diabetes is a chronic disease that occurs when the pancreas is no longer able to make insulin, or when the body cannot make good use of the insulin it produces. Learning how to use Machine Learning can help us predict Diabetes. Let’s get started!
+About this project :
+The objective of this project is to classify whether someone has diabetes or not. Dataset consists of several Medical Variables(Independent) and one Outcome Variable(Dependent) The independent variables in this data set are :-&amp;lsquo;Pregnancies&amp;rsquo;, &amp;lsquo;Glucose&amp;rsquo;, &amp;lsquo;BloodPressure&amp;rsquo;, &amp;lsquo;SkinThickness&amp;rsquo;, &amp;lsquo;Insulin&amp;rsquo;,&amp;lsquo;BMI&amp;rsquo;, &amp;lsquo;DiabetesPedigreeFunction&amp;rsquo;, &amp;lsquo;Age&amp;rsquo; The outcome variable value is either 1 or 0 indicating whether a person has diabetes(1) or not(0).</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning: Sentiment Analysis - Customer Reviews</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/sentiment-analysis/</link>
+      <pubDate>Tue, 12 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/sentiment-analysis/</guid>
+      <description>Read More on GitHub&amp;hellip;
+Power Vizs&amp;hellip;
+Sentiment Analysis: the process of computationally identifying and categorizing opinions expressed in a piece of text, especially in order to determine whether the writer&amp;rsquo;s attitude towards a particular topic, product, etc. is positive, negative, or neutral.</description>
+    </item>
+    
+    <item>
+      <title>Disney Movie View Analysis</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/disney_movie_view_analysis/</link>
+      <pubDate>Sat, 09 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/disney_movie_view_analysis/</guid>
+      <description>Read More on GitHub&amp;hellip;
+Disney Movie View Analysis
+This repo goes along with my video &amp;ldquo;Solving real world data science tasks with Python BeautifulSoup!
+In this video we scrape Wikipedia pages to create a dataset on Disney movies.
+The video is formatted with tasks for you to try to solve on your own throughout. For the best learning experience, at each task you should pause the video, try the task on your own, and then resume when you want to see how I would solve it.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning: Diamond Price Prediction in Forex</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/diamond-price/</link>
+      <pubDate>Sat, 09 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/diamond-price/</guid>
+      <description>Read More on GitHub&amp;hellip;
+Data Set Information: A dataset containing the prices and other features of almost 54,000 diamonds.
+Features description Number of Attributes: 10 (9 predictive features, 1 target)
+Feature Information: A data frame with 53,940 rows and 10 variables:
+price: price in US dollars ($326&amp;ndash;$18,823) (target)
+carat: weight of the diamond (0.2&amp;ndash;5.01)
+cut: quality of the cut (Fair, Good, Very Good, Premium, Ideal)
+color: diamond colour, from J (worst) to D (best)</description>
+    </item>
+    
+    <item>
+      <title>Super Store Sales Analysis</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/super_store_sales_analysis/</link>
+      <pubDate>Wed, 09 Mar 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/super_store_sales_analysis/</guid>
+      <description>Read More on GitHub&amp;hellip;
+Exploratory Data Analysis is a technique used to understand the different aspects of a dataset. Its main objective is to give a through understand of the data. It is used to summarize the main characteristics of a dataset, to examine data before building model, find patterns, relations and anomalies in data using statistical graphs and other visualization, identify faulty points in data, understand relationship between variables while it&amp;rsquo;s goal is to help businesses understand their customer behaviour/characteristics, business growth, and help make better decisions.</description>
+    </item>
+    
+    <item>
+      <title>Tableau Viz: Germany Credit Card Analysis</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/tableau-credit_card/</link>
+      <pubDate>Wed, 09 Mar 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/tableau-credit_card/</guid>
+      <description>Read More on Tableau&amp;hellip;
+Objective
+The goal of this notebook is to understand and predict customer churn for a bank. Specifically, we will initially perform Exploratory Data Analysis (EDA) to identify and visualise the factors contributing to customer churn. This analysis will later help us build Machine Learning models to predict whether a customer will churn or not.
+This problem is a typical classification task. The task does not specify which performance metric to use for optimising our machine learning models.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning: Predicting Credit Defaulters</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/credit-card-defaulters-analysis/</link>
+      <pubDate>Wed, 09 Feb 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/credit-card-defaulters-analysis/</guid>
+      <description>Read More on GitHub&amp;hellip;
+Data Set Information: This research aimed at the case of customers default payments in Taiwan
+Features description:
+LIMIT_BAL: Amount of the given credit (NT dollar): it includes both the individual consumer credit and his/her family (supplementary) credit. SEX: Gender (1 = male; 2 = female). EDUCATION: Education (1 = graduate school; 2 = university; 3 = high school; 4 = others). MARRIAGE: Marital status (1 = married; 2 = single; 3 = others).</description>
+    </item>
+    
+    <item>
+      <title>KPI Viz on Call Center</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/kpi-viz-on-call-networks/</link>
+      <pubDate>Fri, 14 Jan 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/kpi-viz-on-call-networks/</guid>
+      <description>Read More on GitHub&amp;hellip;
+KPI-Visualization on Call-Centre
+KPIs (Key Performance Indicators) are quantifiable measurements used to gauge a company&amp;rsquo;s overall long-term performance. This helps to weigh and determine a company&amp;rsquo;s strategic, financial, and operational achievements. They are used to measure a company&amp;rsquo;s success in relations to its set goals and targets. High-level KPIs may focus on the general overview of the performance of the business, while low-level KPIs may focus on processes in departments such as tech, sales, marketing, HR, support and others.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning: Heart Disease Prediction</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/heart_disease_prediction/</link>
+      <pubDate>Sun, 09 Jan 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/heart_disease_prediction/</guid>
+      <description>Read More on GitHub&amp;hellip;
+Introduction
+WHO announced that cardiovascular diseases is the top one killer over the world. There are seventeen million people died from it every year, especially heart disease. Prevention is better than cure. If we can evaluate the risk of every patient who probably has heart disease, that is, not only patients but also everyone can do something earlier to keep illness away.
+This dataset is a real data including important features of patients.</description>
+    </item>
+    
+    <item>
+      <title>Product and Customer Behavior Analysis</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/product-sales-analysis/</link>
+      <pubDate>Wed, 25 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/product-sales-analysis/</guid>
+      <description>Read More on GitHub&amp;hellip;
+Problem Statement
+Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
+Customer personality analysis helps a business to modify its product based on its target customers from different types of customer segments. For example, instead of spending money to market a new product to every customer in the company’s database, a company can analyze which customer segment is most likely to buy the product and then market the product only on that particular segment.</description>
+    </item>
+    
+    <item>
+      <title>Bank Customer Transaction Analysis</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/bank-customer-transaction-analysis/</link>
+      <pubDate>Mon, 09 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/bank-customer-transaction-analysis/</guid>
+      <description>Read More on GitHub&amp;hellip;
+Bank Customer Transaction Analysis
+The dataset contains 12043 transactions for 100 customers who have one bank account each.
+Transactional period is from 01/08/2018 - 31/10/2021. The data entries are unique and have consistent formats for analysis. For each record/row, information is complete for majority of columns. Some columns contain missing data (blank or NA cells), which is likely due to the nature of transaction. (i.e. merchants are not involved for InterBank transfers or Salary payments) It is also noticed that there is only 91 unique dates in the dataset, suggesting the transaction records for one day are missing (turned out to be 2018-08-16).</description>
+    </item>
+    
+    <item>
+      <title>Sales Cosmetic Customer Analysis</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/customer_transactions_analysis/</link>
+      <pubDate>Wed, 09 Jun 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/customer_transactions_analysis/</guid>
+      <description>Read More on GitHub&amp;hellip;
+About Dataset
+Context
+This data set is created only for the learning purpose of the customer segmentation concepts , also known as market basket analysis . I will demonstrate this by using unsupervised ML technique (KMeans Clustering Algorithm) in the simplest form.
+Content
+You are owing a supermarket mall and through membership cards , you have some basic data about your customers like Customer ID, age, gender, annual income and spending score.</description>
+    </item>
+    
+    <item>
+      <title>Italy_COVID19_Data_Analysis_2020</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/italy_covid19_data_analysis_2020/</link>
+      <pubDate>Tue, 09 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/italy_covid19_data_analysis_2020/</guid>
+      <description>Read More on GitHub&amp;hellip;
+About Dataset
+Context
+Coronaviruses are a large family of viruses which may cause illness in animals or humans. In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease COVID-19 - WHO
+People can catch COVID-19 from others who have the virus.</description>
+    </item>
+    
+    <item>
+      <title>StackOverflow User Analysis and Prediction</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/stackoverflow/</link>
+      <pubDate>Thu, 09 Feb 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/stackoverflow/</guid>
+      <description>Read More on GitHub&amp;hellip;
+About Dataset
+Introduction
+Stack Overflow’s annual Developer Survey is the largest and most comprehensive survey of people who code around the world. Each year, we field a survey covering everything from developers’ favorite technologies to their job preferences. This year marks the ninth year we’ve published our annual Developer Survey results, and nearly 90,000 developers took the 20-minute survey earlier this year.
+Description:
+The enclosed data set is the full, cleaned results of the 2019 Stack Overflow Developer Survey.</description>
+    </item>
+    
+    <item>
+      <title>Automobile Customer Analysis</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/automobile_customer_analysis/</link>
+      <pubDate>Tue, 09 Aug 2016 10:58:08 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/automobile_customer_analysis/</guid>
+      <description>Read More on GitHub&amp;hellip;
+Description:
+An automobile company has plans to enter new markets with their existing products (P1, P2, P3, P4 and P5). After intensive market research, they’ve deduced that the behavior of new market is similar to their existing market.
+In their existing market, the sales team has classified all customers into 4 segments (A, B, C, D ). Then, they performed segmented outreach and communication for different segment of customers.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning: Diabetes Analysis Prediction</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/diabeties_prediction/</link>
+      <pubDate>Sun, 10 Apr 2016 11:00:59 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/diabeties_prediction/</guid>
+      <description>Read more on GitHub&amp;hellip;
+What is Diabetes?
+Diabetes is a chronic disease that occurs when the pancreas is no longer able to make insulin, or when the body cannot make good use of the insulin it produces. Learning how to use Machine Learning can help us predict Diabetes. Let’s get started!
+About this project :
+The objective of this project is to classify whether someone has diabetes or not. Dataset consists of several Medical Variables(Independent) and one Outcome Variable(Dependent) The independent variables in this data set are :-&amp;lsquo;Pregnancies&amp;rsquo;, &amp;lsquo;Glucose&amp;rsquo;, &amp;lsquo;BloodPressure&amp;rsquo;, &amp;lsquo;SkinThickness&amp;rsquo;, &amp;lsquo;Insulin&amp;rsquo;,&amp;lsquo;BMI&amp;rsquo;, &amp;lsquo;DiabetesPedigreeFunction&amp;rsquo;, &amp;lsquo;Age&amp;rsquo; The outcome variable value is either 1 or 0 indicating whether a person has diabetes(1) or not(0).</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning:  Submarine_Sonar_Rock/Mines_Prediction</title>
+      <link>https://edwinosayuki.github.io/edwin_Portfolio/post/stones_detection/</link>
+      <pubDate>Sat, 09 Apr 2016 10:58:08 -0400</pubDate>
+      
+      <guid>https://edwinosayuki.github.io/edwin_Portfolio/post/stones_detection/</guid>
+      <description>Read More&amp;hellip;
+About Dataset
+Context
+This dataset is the result of my very first attempt at a machine learning project. I have always been a military enthusiast, so I took to building a sonar classifier for Anti-Homing Torpedo detection systems using perhaps the most basic machine learning tool that there is i.e. Google Teachable Machines. But since data as such remains classified, hence it was up to myself to find whatever available sources I could find.</description>
+    </item>
+    
+  </channel>
+</rss>
